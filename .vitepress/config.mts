@@ -7,22 +7,21 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '主页', link: '/' },
     ],
 
     sidebar: [
+      { text: '关于FlowEcho WiKi/Team', link: '/TODO'},
       {
-        text: 'Examples',
+        text: '掌控板',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: '掌控板概述', link: '/hpy/index'}
         ]
-      }
+      },
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/gxxk-dev/FlowEcho-WiKi' }
     ]
   }
 })

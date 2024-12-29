@@ -4,15 +4,18 @@ layout: home
 
 hero:
   name: "FlowEcho WiKi"
-  text: "Awe is all."
-  tagline: My great project tagline
+  text: "FET的团队知识库."
+  tagline: Awe is all.
+#  image: # TODO:针对LOGO进一步处理以适配主页
+#    src: /img/FET_logo.png
+#    alt: VitePress
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 开始浏览
+      link: /starter
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Github 仓库
+      link: https://github.com/gxxk-dev/FlowEcho-WiKi
 
 features:
   - title: Feature A
@@ -22,4 +25,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
