@@ -1,0 +1,10 @@
+version: 2
+
+build:
+  os: ubuntu-24.04
+  tools:
+    nodejs: "22"
+
+  commands:
+    - npm add -D vitepress
+    - npx vitepress build docs --outDir $READTHEDOCS_OUTPUT/html
