@@ -7,4 +7,4 @@ build:
 
   commands:
     - npm add -D vitepress
-    - npx vitepress build docs --outDir $READTHEDOCS_OUTPUT/html
+    - npx vitepress build --outDir $READTHEDOCS_OUTPUT/html
