@@ -22,10 +22,10 @@ title: 从零开始
 | Gxxk          |               | [gxxk@duck.com](mailto:gxxk@duck.com)                  | 马甲：Frez79        |
 | emofalling    | ProgramOS 3   |  [emofalling]                                          |                    |
 | CycleBai      |               | [iscyclebai@outlook.com](mailto:iscyclebai@outlook.com)|                    |
-| Howard Jones  |               | [13t-lcrwd1cr48]                                       |                    |
+| Howard Jones  |               | [howardjones1919810@gmail.com](mailto:howardjones1919810@gmail.com)  |      |
 | 罗米奇         |               |  [luomiqi1114]                                         |                    |
 | 川流不息       | ArrayPro      | [1s7_6u17lff8rz]                                       |                    |
-
+| MO-ming       |               | [momingqimiao1029]                                     |                    |
 
 > 上述表格中 按照 邮箱 -> 钉钉号的顺序选择填写
 
